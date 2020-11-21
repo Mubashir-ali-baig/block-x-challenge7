@@ -1,1 +1,1 @@
-Implemented an ECDSA message signature contract using solidity along with its verification using escrecover funcition with metamask and ganache integration.
+Implemented an ECDSA message signature contract using solidity along with its verification using ecrecover function with metamask and ganache integration.
